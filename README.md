@@ -1,0 +1,2 @@
+# Sayru
+Sayru - #Boykot uygulaması
