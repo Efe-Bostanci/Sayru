@@ -2,7 +2,7 @@
 
 Sayru, tüketicilerin bilinçli tercihler yapmasına olanak tanıyan bir boykot uygulamasıdır. Bu uygulama sayesinde kullanıcılar, desteklemek istemedikleri markaları kolayca belirleyebilir, takip edebilir ve tüketim alışkanlıklarını değiştirebilirler.
 
-Temel Özellikler
+##Temel Özellikler
 
 Marka ve ürünleri hızlıca sorgulama.
 
